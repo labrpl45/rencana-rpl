@@ -1,0 +1,5 @@
+Nama : Fajar Zuhri Hadiyanto
+
+Usulan :
+- Penambahan materi bahasa pemrograman typescript
+- Penambahan materi framework Javascript, yaitu next.js
